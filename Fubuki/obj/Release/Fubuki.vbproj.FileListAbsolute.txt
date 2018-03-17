@@ -1,0 +1,38 @@
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Fubuki\Fubuki\bin\Release\Fubuki.exe
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Fubuki\Fubuki\bin\Release\Fubuki.pdb
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Fubuki\Fubuki\bin\Release\Fubuki.xml
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Fubuki\Fubuki\obj\Release\Fubuki.frmMain.resources
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Fubuki\Fubuki\obj\Release\Fubuki.Resources.resources
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Fubuki\Fubuki\obj\Release\Fubuki.vbproj.GenerateResource.Cache
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Fubuki\Fubuki\obj\Release\Fubuki.exe
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Fubuki\Fubuki\obj\Release\Fubuki.xml
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Fubuki\Fubuki\obj\Release\Fubuki.pdb
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Fubuki\Fubuki\obj\Release\Fubuki.frmAbout.resources
+C:\Users\iMonet\Documents\Visual Studio 2013\Projects\Fubuki\Fubuki\obj\Release\Fubuki.vbprojResolveAssemblyReference.cache
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\bin\Release\Fubuki.exe
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\bin\Release\Fubuki.pdb
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\bin\Release\Fubuki.xml
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\bin\Release\BetterListViewExpress.dll
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\bin\Release\BetterListViewExpress.pdb
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\bin\Release\BetterListViewExpress.xml
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\obj\Release\Fubuki.vbprojResolveAssemblyReference.cache
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\obj\Release\Fubuki.frmAbout.resources
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\obj\Release\Fubuki.frmMain.resources
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\obj\Release\Fubuki.Resources.resources
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\obj\Release\Fubuki.vbproj.GenerateResource.Cache
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\obj\Release\Fubuki.exe
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\obj\Release\Fubuki.xml
+C:\Users\iMonet\Documents\Visual Studio 2015\Projects\Fubuki\Fubuki\obj\Release\Fubuki.pdb
+D:\Fubuki\Fubuki\obj\Release\Fubuki.exe
+D:\Fubuki\Fubuki\obj\Release\Fubuki.xml
+D:\Fubuki\Fubuki\obj\Release\Fubuki.pdb
+D:\Fubuki\Fubuki\bin\Release\Fubuki.exe
+D:\Fubuki\Fubuki\bin\Release\Fubuki.pdb
+D:\Fubuki\Fubuki\bin\Release\Fubuki.xml
+D:\Fubuki\Fubuki\bin\Release\BetterListViewExpress.pdb
+D:\Fubuki\Fubuki\bin\Release\BetterListViewExpress.xml
+D:\Fubuki\Fubuki\obj\Release\Fubuki.vbprojResolveAssemblyReference.cache
+D:\Fubuki\Fubuki\obj\Release\Fubuki.frmAbout.resources
+D:\Fubuki\Fubuki\obj\Release\Fubuki.frmMain.resources
+D:\Fubuki\Fubuki\obj\Release\Fubuki.Resources.resources
+D:\Fubuki\Fubuki\obj\Release\Fubuki.vbproj.GenerateResource.Cache
